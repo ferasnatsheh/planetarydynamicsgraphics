@@ -1,7 +1,7 @@
 # planetarydynamicsgraphics
 Interactive graphical simulation of planetary motions
 
-This project was created for a class final project for CS-167: Computational Problem Solving at Whitman College, taken Fall 2022. 
+This project was created for a course final project for CS-167: Computational Problem Solving at Whitman College, taken Fall 2022. 
 
 In the folder CS-167 Final Project, you will find four python files. The graphics package is the one used in class, we have based our graphics on it. 
 The button.py file is a modified version of the button module we worked in class. It contains code to make buttons that detect press.
