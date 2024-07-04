@@ -24,7 +24,7 @@ The following is a (optional) detailed breakdown of the classes used in kepler.p
         
         generatePolarCoordinates(self): this function takes in the input self.p, self.e, and 'a' values and generates self.theta, a list that contains 500 angles evenly spaced out. 
 
-        makeOrbit(self): this function takes in all previous functions and operates on the list self.theta, it takes in the 500 angles in self.theta and converts them into polar coordinates (r, theta). It then takes values of self.r and converts them into cartesian sets of coordinates (x,y). So this function returns 500 sets of (x,y) coordinates that planets take
+        makeOrbit(self): this function takes in all previous functions and operates on the list self.theta, it takes in the 500 angles in self.theta and converts them into polar coordinates (r, theta). It then takes values of self.r and converts                           them into cartesian sets of coordinates (x,y). So this function returns 500 sets of (x,y) coordinates that planets take
 
     class Planet: This class represents the planet object. 
 
